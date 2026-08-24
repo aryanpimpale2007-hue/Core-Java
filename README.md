@@ -1,8 +1,8 @@
 # ☕ Core Java
 
-A collection of Java programs and coding exercises focused on strengthening **Core Java, Object-Oriented Programming (OOP), and problem-solving skills** through hands-on implementation.
+A structured collection of Java programs and coding exercises focused on building a strong foundation in **Core Java and Object-Oriented Programming (OOP)** through hands-on implementation.
 
-This repository tracks my progress in building a strong Java foundation for **DSA, backend development, hackathons, and software projects**.
+This repository documents my progress in understanding Java fundamentals and applying core programming concepts through practical examples.
 
 ## 🚀 Topics Covered
 
@@ -12,7 +12,8 @@ This repository tracks my progress in building a strong Java foundation for **DS
 * Operators
 * Conditional Statements
 * Loops
-* Arrays and Strings
+* Arrays
+* Strings
 * Methods
 
 ### Object-Oriented Programming
@@ -26,6 +27,7 @@ This repository tracks my progress in building a strong Java foundation for **DS
 * Interfaces
 * Method Overloading
 * Method Overriding
+* `this` and `super` Keywords
 
 ### Core Java Concepts
 
@@ -37,14 +39,14 @@ This repository tracks my progress in building a strong Java foundation for **DS
 
 ## 🎯 Objectives
 
-Through this repository, I aim to:
+This repository is focused on:
 
-* Strengthen my Java programming fundamentals
-* Develop a solid understanding of OOP principles
-* Improve logical thinking and problem-solving
-* Write clean, readable, and structured Java code
-* Build a strong foundation for Data Structures & Algorithms
-* Progress toward backend development and larger software projects
+* Building strong Java programming fundamentals
+* Understanding Object-Oriented Programming principles
+* Applying Java concepts through practical programs
+* Improving programming logic and problem-solving
+* Writing clean, readable, and structured Java code
+* Establishing a solid foundation for Java-based software development
 
 ## 🛠️ Technologies & Tools
 
@@ -60,37 +62,30 @@ Through this repository, I aim to:
 
 Clone the repository:
 
-```bash id="96d7pk"
+```bash id="6d6sbm"
 git clone <repository-url>
 ```
 
-Navigate to the required program and compile:
+Compile a Java program:
 
-```bash id="2hpd7u"
+```bash id="aqttd1"
 javac FileName.java
 ```
 
 Run the compiled program:
 
-```bash id="w6mp90"
+```bash id="i8ztsh"
 java FileName
 ```
 
-## 📈 Learning Roadmap
+## 📈 Learning Progress
 
-My Java learning progression:
+This repository is continuously updated as I practice Core Java concepts and strengthen my understanding of Object-Oriented Programming.
 
-**Core Java → OOP → Collections → Exception Handling → Advanced Java → DSA → Backend Development**
-
-This repository will continue to evolve as I learn new concepts, solve more challenging problems, and apply Java to real-world projects.
-
-## 🤝 Contributions
-
-Suggestions and improvements are always welcome. Feel free to explore the programs, suggest better approaches, or contribute improvements.
+The focus is on progressing from fundamental programming concepts to writing well-structured and maintainable Java programs.
 
 ---
 
-### ⭐ Learn • Implement • Practice • Build
+### ⭐ Learn • Implement • Practice • Improve
 
-> Building strong fundamentals today to solve bigger problems tomorrow.
-
+> Building strong Java fundamentals through consistent hands-on practice.
